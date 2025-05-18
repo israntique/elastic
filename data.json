@@ -1,0 +1,166 @@
+	[
+	  {
+		"entity_id": 44015,
+		"origin_id": "10008",
+		"origin_table": "licenses",
+		"txt": [
+		  {
+			"type": "source",
+			"entity_text_string": "רשיון A-3038/1999 בחפירת משלחת חפירות ח' לוביה",
+			"subtype": "title"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "אלכסנדר ירדנה מטעם רשות העתיקות",
+			"subtype": "description"
+		  }
+		],
+		"shp": [
+		  {
+			"shape_id": 1527393,
+			"oshape_id": 1527393,
+			"shape": "POLYGON ((239810.034 742140.1031, 239840.0296 742140.1031, 239840.0378 742170.0987, 239810.034 742170.0987, 239810.034 742140.1031))",
+			"shape_wkt": "POLYGON (( 239810.034 742140.1031, 239840.0296 742140.1031, 239840.0378 742170.0987, 239810.034 742170.0987, 239810.034 742140.1031))"
+		  }
+		],
+		"RISH": [
+		  {
+			"entity_id": 44015,
+			"license_id": 10008,
+			"license_long_name": "A-3038/1999",
+			"license_short_name": "A-3038",
+			"shape_id": 1527393,
+			"shape": "POLYGON ((239810.034 742140.1031, 239840.0296 742140.1031, 239840.0378 742170.0987, 239810.034 742170.0987, 239810.034 742140.1031))",
+			"shape_wkt": "POLYGON (( 239810.034 742140.1031, 239840.0296 742140.1031, 239840.0378 742170.0987, 239810.034 742170.0987, 239810.034 742140.1031))"
+		  }
+		]
+	  },
+	  {
+		"entity_id": 4688021,
+		"origin_id": "archjournal-100",
+		"origin_table": "publications",
+		"txt": [
+		  {
+			"type": "source",
+			"entity_text_string": "ירושלים, העיר העתיקה – הרובע היהודי, 'הבית השרוף'",
+			"subtype": "heb_title"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "Jerusalem, the Old City – the Jewish Quarter, the ‘Burnt House’",
+			"subtype": "eng_title"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "בחודש ספטמבר 2002 נערכה חפירת השלמה 'בבית השרוף' (רשיון מס' 63/2000-G), במסגרת שיקום השרידים באתר לקראת פתיחתו מחדש לביקורי קהל. החפירה, מטעם המכון לארכיאולוגיה של האוניברסיטה העברית בירושלים והחברה לחקירת ארץ-ישראל ועתיקותיה, נוהלה על ידי ה' גבע, בסיועם של א' גוטפלד ור' ננר.\nבחפירה הנוכחית הוסר חתך העפר שנותר מעונת 1970 והחדר נחשף למלוא אורכו. מתחת לחתך התגלה הקיר הצפוני של החדר ובו סף בנוי מאבן של פתח אל החדר הסמוך. בפינת החדר נחשף טבון עשוי טין בצבע כהה. חתך העפר הכיל אבני בנייה, שרידי עץ שרוף וממצאים אחדים, בהם כמה כלי אבן שלמים (איור 1).   \nA complementary excavation of the ‘Burnt House’ was undertaken in September 2002 (License No. G-63/2002), as part of renovating the remains at the site prior to its reopening for the public. The excavation, on behalf of the Institute of Archaeology of the Hebrew University of Jerusalem and the Israel Exploration Society, was directed by H. Geva, with the assistance of O. Gutfeld and R. Nanner.\n'הבית השרוף', בית מגורים ברובע 'העיר העליונה' של ירושלים משלהי ימי בית שני, נחפר בשנת 1970 על ידי נ' אביגד. שרידי הבית נמצאו חתומים במפולת ושרפה של חורבן ירושלים בשנת 70 לסה\"נ. באחד מחדרי הבית הושאר חתך עפר כעדות לחורבן.",
+			"subtype": "heb_text"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "The earthen balk left from the 1970 season was removed in the current excavation and the entire length of the room was exposed. The northern wall of the room, including a stone-built threshold of an entrance leading into the adjacent room, was discovered below the balk. A tabun of dark clay was found in the corner of the room. The earthen balk contained masonry stones, remains of charred wood and some finds, including several complete stone vessels (Fig. 1).\nThe ‘Burnt House’, a residence in the Upper City of Jerusalem from the end of the Second Temple period, was excavated in 1970 by N. Avigad. The remains of the house were found sealed under the collapse and conflagration of the destruction of Jerusalem in 70 CE. An earthen balk was left in one of the rooms of the house, as evidence for the destruction.",
+			"subtype": "eng_text"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "חדשות ארכיאולוגיות 2005\nמאת גבע הלל",
+			"subtype": "description"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "ירושלים, העיר העתיקה – הרובע היהודי, 'הבית השרוף'",
+			"subtype": "title"
+		  }
+		],
+		"RISH": [
+		  {
+			"entity_id": 43725,
+			"license_id": 10972,
+			"license_long_name": "G-63/2000",
+			"license_short_name": "G-63",
+			"shape_id": 1254430,
+			"shape": "POLYGON ((189400.0144 710000.073799999, 191200.0353 710000.073799999, 191200.0191 713500.0713, 189400.0064 713500.063100001, 189400.0144 710000.073799999))",
+			"shape_wkt": "POLYGON (( 189400.0144 710000.073799999, 191200.0353 710000.073799999, 191200.0191 713500.0713, 189400.0064 713500.063100001, 189400.0144 710000.073799999))"
+		  }
+		]
+	  },
+	  {
+		"entity_id": 7044626,
+		"origin_id": "1000002",
+		"origin_table": "objects",
+		"thes": [
+		  {
+			"wid": 58,
+			"heb": "מטבע",
+			"eng": "Coin",
+			"cod_thes": 2
+		  },
+		  {
+			"wid": 913,
+			"heb": "ברונזה",
+			"eng": "Bronze",
+			"cod_thes": 9
+		  }
+		],
+		"txt": [
+		  {
+			"type": "source",
+			"entity_text_string": "מטבע  ( )(1000002-פ)",
+			"subtype": "title"
+		  }
+		],
+		"RISH": [
+		  {
+			"entity_id": 53794,
+			"license_id": 23635,
+			"license_long_name": "G-11/2018",
+			"license_short_name": "G-11",
+			"shape_id": 1535445,
+			"shape": "POLYGON ((222350 631300, 222380 631300, 222380 631340, 222350 631340, 222350 631300))",
+			"shape_wkt": "POLYGON (( 222350.0 631300.0, 222380.0 631300.0, 222380.0 631340.0, 222350.0 631340.0, 222350.0 631300.0))"
+		  }
+		]
+	  },
+	  {
+		"entity_id": 7128539,
+		"origin_id": "9998",
+		"origin_table": "expeditions",
+		"txt": [
+		  {
+			"type": "source",
+			"entity_text_string": "משלחת חפירות לבד (קולה/רנטיס)?",
+			"subtype": "name"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "EXCAVTIONS AT RANTIS",
+			"subtype": "name"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "משלחת חפירות לבד (קולה/רנטיס)? [2000]",
+			"subtype": "title"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "אחראי חובות משלחת: זבינוביץ ולדימיר",
+			"subtype": "description"
+		  },
+		  {
+			"type": "source",
+			"entity_text_string": "משלחת חפירות לבד (קולה/רנטיס)? [2000]",
+			"subtype": "title"
+		  }
+		],
+		"RISH": [
+		  {
+			"entity_id": 45437,
+			"license_id": 11690,
+			"license_long_name": "A-3278/2000",
+			"license_short_name": "A-3278",
+			"shape_id": 1256063,
+			"shape": "POLYGON ((198000.1118 661000.182399999, 199000.118 661000.1744, 199000.118 662000.1807, 198000.1118 662000.1724, 198000.1118 661000.182399999))",
+			"shape_wkt": "POLYGON (( 198000.1118 661000.182399999, 199000.118 661000.1744, 199000.118 662000.1807, 198000.1118 662000.1724, 198000.1118 661000.182399999))"
+		  }
+		]
+	  }
+	]
