@@ -1,2 +1,5 @@
 /venv
 venv/
+local_settings.py
+**/__pycache__/
+

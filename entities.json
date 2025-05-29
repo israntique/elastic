@@ -1,0 +1,4502 @@
+[
+    {
+      "entity_id": 1,
+      "origin_id": "E-1",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1758
+        }
+      ],
+      "details": {
+        "title": "Title 1",
+        "description": "Description for entity 1."
+      },
+      "thesaurus": [
+        {
+          "wid": 3778,
+          "cod_thes": "CT7"
+        },
+        {
+          "wid": 3135,
+          "cod_thes": "CT93"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 11,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 1",
+          "subtype": "name"
+        },
+        {
+          "text_id": 12,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 1",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 2,
+      "origin_id": "E-2",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1285
+        }
+      ],
+      "details": {
+        "title": "Title 2",
+        "description": "Description for entity 2."
+      },
+      "thesaurus": [
+        {
+          "wid": 3447,
+          "cod_thes": "CT57"
+        },
+        {
+          "wid": 3865,
+          "cod_thes": "CT80"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 21,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 2",
+          "subtype": "name"
+        },
+        {
+          "text_id": 22,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 2",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 3,
+      "origin_id": "E-3",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1578
+        }
+      ],
+      "details": {
+        "title": "Title 3",
+        "description": "Description for entity 3."
+      },
+      "thesaurus": [
+        {
+          "wid": 3439,
+          "cod_thes": "CT69"
+        },
+        {
+          "wid": 3071,
+          "cod_thes": "CT91"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 31,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 3",
+          "subtype": "name"
+        },
+        {
+          "text_id": 32,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 3",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 4,
+      "origin_id": "E-4",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1990
+        }
+      ],
+      "details": {
+        "title": "Title 4",
+        "description": "Description for entity 4."
+      },
+      "thesaurus": [
+        {
+          "wid": 3086,
+          "cod_thes": "CT16"
+        },
+        {
+          "wid": 3281,
+          "cod_thes": "CT14"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 41,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 4",
+          "subtype": "name"
+        },
+        {
+          "text_id": 42,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 4",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 5,
+      "origin_id": "E-5",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1986
+        }
+      ],
+      "details": {
+        "title": "Title 5",
+        "description": "Description for entity 5."
+      },
+      "thesaurus": [
+        {
+          "wid": 3395,
+          "cod_thes": "CT9"
+        },
+        {
+          "wid": 3299,
+          "cod_thes": "CT56"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 51,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 5",
+          "subtype": "name"
+        },
+        {
+          "text_id": 52,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 5",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 6,
+      "origin_id": "E-6",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1504
+        }
+      ],
+      "details": {
+        "title": "Title 6",
+        "description": "Description for entity 6."
+      },
+      "thesaurus": [
+        {
+          "wid": 3614,
+          "cod_thes": "CT9"
+        },
+        {
+          "wid": 3842,
+          "cod_thes": "CT24"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 61,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 6",
+          "subtype": "name"
+        },
+        {
+          "text_id": 62,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 6",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 7,
+      "origin_id": "E-7",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1001
+        }
+      ],
+      "details": {
+        "title": "Title 7",
+        "description": "Description for entity 7."
+      },
+      "thesaurus": [
+        {
+          "wid": 3534,
+          "cod_thes": "CT30"
+        },
+        {
+          "wid": 3018,
+          "cod_thes": "CT63"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 71,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 7",
+          "subtype": "name"
+        },
+        {
+          "text_id": 72,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 7",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 8,
+      "origin_id": "E-8",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1985
+        }
+      ],
+      "details": {
+        "title": "Title 8",
+        "description": "Description for entity 8."
+      },
+      "thesaurus": [
+        {
+          "wid": 3187,
+          "cod_thes": "CT59"
+        },
+        {
+          "wid": 3191,
+          "cod_thes": "CT87"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 81,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 8",
+          "subtype": "name"
+        },
+        {
+          "text_id": 82,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 8",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 9,
+      "origin_id": "E-9",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1309
+        }
+      ],
+      "details": {
+        "title": "Title 9",
+        "description": "Description for entity 9."
+      },
+      "thesaurus": [
+        {
+          "wid": 3179,
+          "cod_thes": "CT21"
+        },
+        {
+          "wid": 3042,
+          "cod_thes": "CT15"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 91,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 9",
+          "subtype": "name"
+        },
+        {
+          "text_id": 92,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 9",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 10,
+      "origin_id": "E-10",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1873
+        }
+      ],
+      "details": {
+        "title": "Title 10",
+        "description": "Description for entity 10."
+      },
+      "thesaurus": [
+        {
+          "wid": 3435,
+          "cod_thes": "CT24"
+        },
+        {
+          "wid": 3913,
+          "cod_thes": "CT37"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 101,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 10",
+          "subtype": "name"
+        },
+        {
+          "text_id": 102,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 10",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 11,
+      "origin_id": "E-11",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1817
+        }
+      ],
+      "details": {
+        "title": "Title 11",
+        "description": "Description for entity 11."
+      },
+      "thesaurus": [
+        {
+          "wid": 3240,
+          "cod_thes": "CT46"
+        },
+        {
+          "wid": 3340,
+          "cod_thes": "CT16"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 111,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 11",
+          "subtype": "name"
+        },
+        {
+          "text_id": 112,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 11",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 12,
+      "origin_id": "E-12",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1776
+        }
+      ],
+      "details": {
+        "title": "Title 12",
+        "description": "Description for entity 12."
+      },
+      "thesaurus": [
+        {
+          "wid": 3205,
+          "cod_thes": "CT42"
+        },
+        {
+          "wid": 3065,
+          "cod_thes": "CT44"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 121,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 12",
+          "subtype": "name"
+        },
+        {
+          "text_id": 122,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 12",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 13,
+      "origin_id": "E-13",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1839
+        }
+      ],
+      "details": {
+        "title": "Title 13",
+        "description": "Description for entity 13."
+      },
+      "thesaurus": [
+        {
+          "wid": 3301,
+          "cod_thes": "CT100"
+        },
+        {
+          "wid": 3577,
+          "cod_thes": "CT97"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 131,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 13",
+          "subtype": "name"
+        },
+        {
+          "text_id": 132,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 13",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 14,
+      "origin_id": "E-14",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1791
+        }
+      ],
+      "details": {
+        "title": "Title 14",
+        "description": "Description for entity 14."
+      },
+      "thesaurus": [
+        {
+          "wid": 3679,
+          "cod_thes": "CT90"
+        },
+        {
+          "wid": 3518,
+          "cod_thes": "CT50"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 141,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 14",
+          "subtype": "name"
+        },
+        {
+          "text_id": 142,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 14",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 15,
+      "origin_id": "E-15",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1065
+        }
+      ],
+      "details": {
+        "title": "Title 15",
+        "description": "Description for entity 15."
+      },
+      "thesaurus": [
+        {
+          "wid": 3260,
+          "cod_thes": "CT65"
+        },
+        {
+          "wid": 3918,
+          "cod_thes": "CT98"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 151,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 15",
+          "subtype": "name"
+        },
+        {
+          "text_id": 152,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 15",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 16,
+      "origin_id": "E-16",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1260
+        }
+      ],
+      "details": {
+        "title": "Title 16",
+        "description": "Description for entity 16."
+      },
+      "thesaurus": [
+        {
+          "wid": 3407,
+          "cod_thes": "CT67"
+        },
+        {
+          "wid": 3223,
+          "cod_thes": "CT65"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 161,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 16",
+          "subtype": "name"
+        },
+        {
+          "text_id": 162,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 16",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 17,
+      "origin_id": "E-17",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1328
+        }
+      ],
+      "details": {
+        "title": "Title 17",
+        "description": "Description for entity 17."
+      },
+      "thesaurus": [
+        {
+          "wid": 3624,
+          "cod_thes": "CT80"
+        },
+        {
+          "wid": 3071,
+          "cod_thes": "CT32"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 171,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 17",
+          "subtype": "name"
+        },
+        {
+          "text_id": 172,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 17",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 18,
+      "origin_id": "E-18",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1172
+        }
+      ],
+      "details": {
+        "title": "Title 18",
+        "description": "Description for entity 18."
+      },
+      "thesaurus": [
+        {
+          "wid": 3988,
+          "cod_thes": "CT94"
+        },
+        {
+          "wid": 3092,
+          "cod_thes": "CT78"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 181,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 18",
+          "subtype": "name"
+        },
+        {
+          "text_id": 182,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 18",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 19,
+      "origin_id": "E-19",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1653
+        }
+      ],
+      "details": {
+        "title": "Title 19",
+        "description": "Description for entity 19."
+      },
+      "thesaurus": [
+        {
+          "wid": 3920,
+          "cod_thes": "CT44"
+        },
+        {
+          "wid": 3750,
+          "cod_thes": "CT22"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 191,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 19",
+          "subtype": "name"
+        },
+        {
+          "text_id": 192,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 19",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 1901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 20,
+      "origin_id": "E-20",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1140
+        }
+      ],
+      "details": {
+        "title": "Title 20",
+        "description": "Description for entity 20."
+      },
+      "thesaurus": [
+        {
+          "wid": 3579,
+          "cod_thes": "CT49"
+        },
+        {
+          "wid": 3406,
+          "cod_thes": "CT66"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 201,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 20",
+          "subtype": "name"
+        },
+        {
+          "text_id": 202,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 20",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 21,
+      "origin_id": "E-21",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1340
+        }
+      ],
+      "details": {
+        "title": "Title 21",
+        "description": "Description for entity 21."
+      },
+      "thesaurus": [
+        {
+          "wid": 3810,
+          "cod_thes": "CT5"
+        },
+        {
+          "wid": 3251,
+          "cod_thes": "CT54"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 211,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 21",
+          "subtype": "name"
+        },
+        {
+          "text_id": 212,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 21",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 22,
+      "origin_id": "E-22",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1709
+        }
+      ],
+      "details": {
+        "title": "Title 22",
+        "description": "Description for entity 22."
+      },
+      "thesaurus": [
+        {
+          "wid": 3467,
+          "cod_thes": "CT71"
+        },
+        {
+          "wid": 3524,
+          "cod_thes": "CT7"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 221,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 22",
+          "subtype": "name"
+        },
+        {
+          "text_id": 222,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 22",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 23,
+      "origin_id": "E-23",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1630
+        }
+      ],
+      "details": {
+        "title": "Title 23",
+        "description": "Description for entity 23."
+      },
+      "thesaurus": [
+        {
+          "wid": 3387,
+          "cod_thes": "CT53"
+        },
+        {
+          "wid": 3754,
+          "cod_thes": "CT74"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 231,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 23",
+          "subtype": "name"
+        },
+        {
+          "text_id": 232,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 23",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 24,
+      "origin_id": "E-24",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1641
+        }
+      ],
+      "details": {
+        "title": "Title 24",
+        "description": "Description for entity 24."
+      },
+      "thesaurus": [
+        {
+          "wid": 3400,
+          "cod_thes": "CT27"
+        },
+        {
+          "wid": 3653,
+          "cod_thes": "CT12"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 241,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 24",
+          "subtype": "name"
+        },
+        {
+          "text_id": 242,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 24",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 25,
+      "origin_id": "E-25",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1489
+        }
+      ],
+      "details": {
+        "title": "Title 25",
+        "description": "Description for entity 25."
+      },
+      "thesaurus": [
+        {
+          "wid": 3484,
+          "cod_thes": "CT90"
+        },
+        {
+          "wid": 3524,
+          "cod_thes": "CT10"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 251,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 25",
+          "subtype": "name"
+        },
+        {
+          "text_id": 252,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 25",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 26,
+      "origin_id": "E-26",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1035
+        }
+      ],
+      "details": {
+        "title": "Title 26",
+        "description": "Description for entity 26."
+      },
+      "thesaurus": [
+        {
+          "wid": 3899,
+          "cod_thes": "CT6"
+        },
+        {
+          "wid": 3676,
+          "cod_thes": "CT63"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 261,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 26",
+          "subtype": "name"
+        },
+        {
+          "text_id": 262,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 26",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 27,
+      "origin_id": "E-27",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1880
+        }
+      ],
+      "details": {
+        "title": "Title 27",
+        "description": "Description for entity 27."
+      },
+      "thesaurus": [
+        {
+          "wid": 3968,
+          "cod_thes": "CT15"
+        },
+        {
+          "wid": 3101,
+          "cod_thes": "CT50"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 271,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 27",
+          "subtype": "name"
+        },
+        {
+          "text_id": 272,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 27",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 28,
+      "origin_id": "E-28",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1080
+        }
+      ],
+      "details": {
+        "title": "Title 28",
+        "description": "Description for entity 28."
+      },
+      "thesaurus": [
+        {
+          "wid": 3369,
+          "cod_thes": "CT79"
+        },
+        {
+          "wid": 3934,
+          "cod_thes": "CT62"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 281,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 28",
+          "subtype": "name"
+        },
+        {
+          "text_id": 282,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 28",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 29,
+      "origin_id": "E-29",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1100
+        }
+      ],
+      "details": {
+        "title": "Title 29",
+        "description": "Description for entity 29."
+      },
+      "thesaurus": [
+        {
+          "wid": 3642,
+          "cod_thes": "CT82"
+        },
+        {
+          "wid": 3581,
+          "cod_thes": "CT27"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 291,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 29",
+          "subtype": "name"
+        },
+        {
+          "text_id": 292,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 29",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 2901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 30,
+      "origin_id": "E-30",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1730
+        }
+      ],
+      "details": {
+        "title": "Title 30",
+        "description": "Description for entity 30."
+      },
+      "thesaurus": [
+        {
+          "wid": 3694,
+          "cod_thes": "CT62"
+        },
+        {
+          "wid": 3131,
+          "cod_thes": "CT5"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 301,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 30",
+          "subtype": "name"
+        },
+        {
+          "text_id": 302,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 30",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 31,
+      "origin_id": "E-31",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1756
+        }
+      ],
+      "details": {
+        "title": "Title 31",
+        "description": "Description for entity 31."
+      },
+      "thesaurus": [
+        {
+          "wid": 3103,
+          "cod_thes": "CT53"
+        },
+        {
+          "wid": 3248,
+          "cod_thes": "CT25"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 311,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 31",
+          "subtype": "name"
+        },
+        {
+          "text_id": 312,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 31",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 32,
+      "origin_id": "E-32",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1331
+        }
+      ],
+      "details": {
+        "title": "Title 32",
+        "description": "Description for entity 32."
+      },
+      "thesaurus": [
+        {
+          "wid": 3687,
+          "cod_thes": "CT25"
+        },
+        {
+          "wid": 3653,
+          "cod_thes": "CT42"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 321,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 32",
+          "subtype": "name"
+        },
+        {
+          "text_id": 322,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 32",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 33,
+      "origin_id": "E-33",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1744
+        }
+      ],
+      "details": {
+        "title": "Title 33",
+        "description": "Description for entity 33."
+      },
+      "thesaurus": [
+        {
+          "wid": 3587,
+          "cod_thes": "CT58"
+        },
+        {
+          "wid": 3637,
+          "cod_thes": "CT52"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 331,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 33",
+          "subtype": "name"
+        },
+        {
+          "text_id": 332,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 33",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 34,
+      "origin_id": "E-34",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1735
+        }
+      ],
+      "details": {
+        "title": "Title 34",
+        "description": "Description for entity 34."
+      },
+      "thesaurus": [
+        {
+          "wid": 3268,
+          "cod_thes": "CT69"
+        },
+        {
+          "wid": 3750,
+          "cod_thes": "CT20"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 341,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 34",
+          "subtype": "name"
+        },
+        {
+          "text_id": 342,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 34",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 35,
+      "origin_id": "E-35",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1156
+        }
+      ],
+      "details": {
+        "title": "Title 35",
+        "description": "Description for entity 35."
+      },
+      "thesaurus": [
+        {
+          "wid": 3509,
+          "cod_thes": "CT57"
+        },
+        {
+          "wid": 3720,
+          "cod_thes": "CT50"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 351,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 35",
+          "subtype": "name"
+        },
+        {
+          "text_id": 352,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 35",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 36,
+      "origin_id": "E-36",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1694
+        }
+      ],
+      "details": {
+        "title": "Title 36",
+        "description": "Description for entity 36."
+      },
+      "thesaurus": [
+        {
+          "wid": 3420,
+          "cod_thes": "CT83"
+        },
+        {
+          "wid": 3762,
+          "cod_thes": "CT81"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 361,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 36",
+          "subtype": "name"
+        },
+        {
+          "text_id": 362,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 36",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 37,
+      "origin_id": "E-37",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1094
+        }
+      ],
+      "details": {
+        "title": "Title 37",
+        "description": "Description for entity 37."
+      },
+      "thesaurus": [
+        {
+          "wid": 3836,
+          "cod_thes": "CT51"
+        },
+        {
+          "wid": 3945,
+          "cod_thes": "CT12"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 371,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 37",
+          "subtype": "name"
+        },
+        {
+          "text_id": 372,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 37",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 38,
+      "origin_id": "E-38",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1364
+        }
+      ],
+      "details": {
+        "title": "Title 38",
+        "description": "Description for entity 38."
+      },
+      "thesaurus": [
+        {
+          "wid": 3361,
+          "cod_thes": "CT42"
+        },
+        {
+          "wid": 3092,
+          "cod_thes": "CT64"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 381,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 38",
+          "subtype": "name"
+        },
+        {
+          "text_id": 382,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 38",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 39,
+      "origin_id": "E-39",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1926
+        }
+      ],
+      "details": {
+        "title": "Title 39",
+        "description": "Description for entity 39."
+      },
+      "thesaurus": [
+        {
+          "wid": 3113,
+          "cod_thes": "CT46"
+        },
+        {
+          "wid": 3828,
+          "cod_thes": "CT18"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 391,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 39",
+          "subtype": "name"
+        },
+        {
+          "text_id": 392,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 39",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 3901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 40,
+      "origin_id": "E-40",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1626
+        }
+      ],
+      "details": {
+        "title": "Title 40",
+        "description": "Description for entity 40."
+      },
+      "thesaurus": [
+        {
+          "wid": 3293,
+          "cod_thes": "CT11"
+        },
+        {
+          "wid": 3511,
+          "cod_thes": "CT91"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 401,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 40",
+          "subtype": "name"
+        },
+        {
+          "text_id": 402,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 40",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 41,
+      "origin_id": "E-41",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1268
+        }
+      ],
+      "details": {
+        "title": "Title 41",
+        "description": "Description for entity 41."
+      },
+      "thesaurus": [
+        {
+          "wid": 3528,
+          "cod_thes": "CT53"
+        },
+        {
+          "wid": 3168,
+          "cod_thes": "CT70"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 411,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 41",
+          "subtype": "name"
+        },
+        {
+          "text_id": 412,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 41",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 42,
+      "origin_id": "E-42",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1846
+        }
+      ],
+      "details": {
+        "title": "Title 42",
+        "description": "Description for entity 42."
+      },
+      "thesaurus": [
+        {
+          "wid": 3025,
+          "cod_thes": "CT95"
+        },
+        {
+          "wid": 3142,
+          "cod_thes": "CT89"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 421,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 42",
+          "subtype": "name"
+        },
+        {
+          "text_id": 422,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 42",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 43,
+      "origin_id": "E-43",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1156
+        }
+      ],
+      "details": {
+        "title": "Title 43",
+        "description": "Description for entity 43."
+      },
+      "thesaurus": [
+        {
+          "wid": 3329,
+          "cod_thes": "CT4"
+        },
+        {
+          "wid": 3050,
+          "cod_thes": "CT20"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 431,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 43",
+          "subtype": "name"
+        },
+        {
+          "text_id": 432,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 43",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 44,
+      "origin_id": "E-44",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1041
+        }
+      ],
+      "details": {
+        "title": "Title 44",
+        "description": "Description for entity 44."
+      },
+      "thesaurus": [
+        {
+          "wid": 3734,
+          "cod_thes": "CT20"
+        },
+        {
+          "wid": 3276,
+          "cod_thes": "CT16"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 441,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 44",
+          "subtype": "name"
+        },
+        {
+          "text_id": 442,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 44",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 45,
+      "origin_id": "E-45",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1691
+        }
+      ],
+      "details": {
+        "title": "Title 45",
+        "description": "Description for entity 45."
+      },
+      "thesaurus": [
+        {
+          "wid": 3628,
+          "cod_thes": "CT32"
+        },
+        {
+          "wid": 3540,
+          "cod_thes": "CT53"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 451,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 45",
+          "subtype": "name"
+        },
+        {
+          "text_id": 452,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 45",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 46,
+      "origin_id": "E-46",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1484
+        }
+      ],
+      "details": {
+        "title": "Title 46",
+        "description": "Description for entity 46."
+      },
+      "thesaurus": [
+        {
+          "wid": 3051,
+          "cod_thes": "CT8"
+        },
+        {
+          "wid": 3882,
+          "cod_thes": "CT99"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 461,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 46",
+          "subtype": "name"
+        },
+        {
+          "text_id": 462,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 46",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 47,
+      "origin_id": "E-47",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1771
+        }
+      ],
+      "details": {
+        "title": "Title 47",
+        "description": "Description for entity 47."
+      },
+      "thesaurus": [
+        {
+          "wid": 3810,
+          "cod_thes": "CT4"
+        },
+        {
+          "wid": 3455,
+          "cod_thes": "CT38"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 471,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 47",
+          "subtype": "name"
+        },
+        {
+          "text_id": 472,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 47",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 48,
+      "origin_id": "E-48",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1127
+        }
+      ],
+      "details": {
+        "title": "Title 48",
+        "description": "Description for entity 48."
+      },
+      "thesaurus": [
+        {
+          "wid": 3467,
+          "cod_thes": "CT61"
+        },
+        {
+          "wid": 3116,
+          "cod_thes": "CT97"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 481,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 48",
+          "subtype": "name"
+        },
+        {
+          "text_id": 482,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 48",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 49,
+      "origin_id": "E-49",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1032
+        }
+      ],
+      "details": {
+        "title": "Title 49",
+        "description": "Description for entity 49."
+      },
+      "thesaurus": [
+        {
+          "wid": 3931,
+          "cod_thes": "CT47"
+        },
+        {
+          "wid": 3259,
+          "cod_thes": "CT76"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 491,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 49",
+          "subtype": "name"
+        },
+        {
+          "text_id": 492,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 49",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 4901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 50,
+      "origin_id": "E-50",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1531
+        }
+      ],
+      "details": {
+        "title": "Title 50",
+        "description": "Description for entity 50."
+      },
+      "thesaurus": [
+        {
+          "wid": 3361,
+          "cod_thes": "CT100"
+        },
+        {
+          "wid": 3681,
+          "cod_thes": "CT58"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 501,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 50",
+          "subtype": "name"
+        },
+        {
+          "text_id": 502,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 50",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 51,
+      "origin_id": "E-51",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1031
+        }
+      ],
+      "details": {
+        "title": "Title 51",
+        "description": "Description for entity 51."
+      },
+      "thesaurus": [
+        {
+          "wid": 3945,
+          "cod_thes": "CT69"
+        },
+        {
+          "wid": 3986,
+          "cod_thes": "CT53"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 511,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 51",
+          "subtype": "name"
+        },
+        {
+          "text_id": 512,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 51",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 52,
+      "origin_id": "E-52",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1109
+        }
+      ],
+      "details": {
+        "title": "Title 52",
+        "description": "Description for entity 52."
+      },
+      "thesaurus": [
+        {
+          "wid": 3785,
+          "cod_thes": "CT59"
+        },
+        {
+          "wid": 3910,
+          "cod_thes": "CT28"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 521,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 52",
+          "subtype": "name"
+        },
+        {
+          "text_id": 522,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 52",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 53,
+      "origin_id": "E-53",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1126
+        }
+      ],
+      "details": {
+        "title": "Title 53",
+        "description": "Description for entity 53."
+      },
+      "thesaurus": [
+        {
+          "wid": 3202,
+          "cod_thes": "CT60"
+        },
+        {
+          "wid": 3184,
+          "cod_thes": "CT80"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 531,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 53",
+          "subtype": "name"
+        },
+        {
+          "text_id": 532,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 53",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 54,
+      "origin_id": "E-54",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1500
+        }
+      ],
+      "details": {
+        "title": "Title 54",
+        "description": "Description for entity 54."
+      },
+      "thesaurus": [
+        {
+          "wid": 3316,
+          "cod_thes": "CT31"
+        },
+        {
+          "wid": 3297,
+          "cod_thes": "CT21"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 541,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 54",
+          "subtype": "name"
+        },
+        {
+          "text_id": 542,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 54",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 55,
+      "origin_id": "E-55",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1562
+        }
+      ],
+      "details": {
+        "title": "Title 55",
+        "description": "Description for entity 55."
+      },
+      "thesaurus": [
+        {
+          "wid": 3644,
+          "cod_thes": "CT5"
+        },
+        {
+          "wid": 3941,
+          "cod_thes": "CT73"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 551,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 55",
+          "subtype": "name"
+        },
+        {
+          "text_id": 552,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 55",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 56,
+      "origin_id": "E-56",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1876
+        }
+      ],
+      "details": {
+        "title": "Title 56",
+        "description": "Description for entity 56."
+      },
+      "thesaurus": [
+        {
+          "wid": 3529,
+          "cod_thes": "CT58"
+        },
+        {
+          "wid": 3923,
+          "cod_thes": "CT40"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 561,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 56",
+          "subtype": "name"
+        },
+        {
+          "text_id": 562,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 56",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 57,
+      "origin_id": "E-57",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1928
+        }
+      ],
+      "details": {
+        "title": "Title 57",
+        "description": "Description for entity 57."
+      },
+      "thesaurus": [
+        {
+          "wid": 3338,
+          "cod_thes": "CT37"
+        },
+        {
+          "wid": 3057,
+          "cod_thes": "CT22"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 571,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 57",
+          "subtype": "name"
+        },
+        {
+          "text_id": 572,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 57",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 58,
+      "origin_id": "E-58",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1177
+        }
+      ],
+      "details": {
+        "title": "Title 58",
+        "description": "Description for entity 58."
+      },
+      "thesaurus": [
+        {
+          "wid": 3373,
+          "cod_thes": "CT71"
+        },
+        {
+          "wid": 3708,
+          "cod_thes": "CT20"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 581,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 58",
+          "subtype": "name"
+        },
+        {
+          "text_id": 582,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 58",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 59,
+      "origin_id": "E-59",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1016
+        }
+      ],
+      "details": {
+        "title": "Title 59",
+        "description": "Description for entity 59."
+      },
+      "thesaurus": [
+        {
+          "wid": 3073,
+          "cod_thes": "CT25"
+        },
+        {
+          "wid": 3547,
+          "cod_thes": "CT99"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 591,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 59",
+          "subtype": "name"
+        },
+        {
+          "text_id": 592,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 59",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 5901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 60,
+      "origin_id": "E-60",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1855
+        }
+      ],
+      "details": {
+        "title": "Title 60",
+        "description": "Description for entity 60."
+      },
+      "thesaurus": [
+        {
+          "wid": 3516,
+          "cod_thes": "CT93"
+        },
+        {
+          "wid": 3952,
+          "cod_thes": "CT26"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 601,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 60",
+          "subtype": "name"
+        },
+        {
+          "text_id": 602,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 60",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 61,
+      "origin_id": "E-61",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1342
+        }
+      ],
+      "details": {
+        "title": "Title 61",
+        "description": "Description for entity 61."
+      },
+      "thesaurus": [
+        {
+          "wid": 3654,
+          "cod_thes": "CT33"
+        },
+        {
+          "wid": 3069,
+          "cod_thes": "CT27"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 611,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 61",
+          "subtype": "name"
+        },
+        {
+          "text_id": 612,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 61",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 62,
+      "origin_id": "E-62",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1523
+        }
+      ],
+      "details": {
+        "title": "Title 62",
+        "description": "Description for entity 62."
+      },
+      "thesaurus": [
+        {
+          "wid": 3455,
+          "cod_thes": "CT72"
+        },
+        {
+          "wid": 3651,
+          "cod_thes": "CT71"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 621,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 62",
+          "subtype": "name"
+        },
+        {
+          "text_id": 622,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 62",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 63,
+      "origin_id": "E-63",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1758
+        }
+      ],
+      "details": {
+        "title": "Title 63",
+        "description": "Description for entity 63."
+      },
+      "thesaurus": [
+        {
+          "wid": 3060,
+          "cod_thes": "CT1"
+        },
+        {
+          "wid": 3301,
+          "cod_thes": "CT100"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 631,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 63",
+          "subtype": "name"
+        },
+        {
+          "text_id": 632,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 63",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 64,
+      "origin_id": "E-64",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1157
+        }
+      ],
+      "details": {
+        "title": "Title 64",
+        "description": "Description for entity 64."
+      },
+      "thesaurus": [
+        {
+          "wid": 3194,
+          "cod_thes": "CT84"
+        },
+        {
+          "wid": 3467,
+          "cod_thes": "CT61"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 641,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 64",
+          "subtype": "name"
+        },
+        {
+          "text_id": 642,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 64",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 65,
+      "origin_id": "E-65",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1875
+        }
+      ],
+      "details": {
+        "title": "Title 65",
+        "description": "Description for entity 65."
+      },
+      "thesaurus": [
+        {
+          "wid": 3782,
+          "cod_thes": "CT25"
+        },
+        {
+          "wid": 3395,
+          "cod_thes": "CT56"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 651,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 65",
+          "subtype": "name"
+        },
+        {
+          "text_id": 652,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 65",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 66,
+      "origin_id": "E-66",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1224
+        }
+      ],
+      "details": {
+        "title": "Title 66",
+        "description": "Description for entity 66."
+      },
+      "thesaurus": [
+        {
+          "wid": 3263,
+          "cod_thes": "CT25"
+        },
+        {
+          "wid": 3903,
+          "cod_thes": "CT78"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 661,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 66",
+          "subtype": "name"
+        },
+        {
+          "text_id": 662,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 66",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 67,
+      "origin_id": "E-67",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1413
+        }
+      ],
+      "details": {
+        "title": "Title 67",
+        "description": "Description for entity 67."
+      },
+      "thesaurus": [
+        {
+          "wid": 3590,
+          "cod_thes": "CT54"
+        },
+        {
+          "wid": 3140,
+          "cod_thes": "CT41"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 671,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 67",
+          "subtype": "name"
+        },
+        {
+          "text_id": 672,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 67",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 68,
+      "origin_id": "E-68",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1085
+        }
+      ],
+      "details": {
+        "title": "Title 68",
+        "description": "Description for entity 68."
+      },
+      "thesaurus": [
+        {
+          "wid": 3903,
+          "cod_thes": "CT89"
+        },
+        {
+          "wid": 3761,
+          "cod_thes": "CT38"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 681,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 68",
+          "subtype": "name"
+        },
+        {
+          "text_id": 682,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 68",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 69,
+      "origin_id": "E-69",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1643
+        }
+      ],
+      "details": {
+        "title": "Title 69",
+        "description": "Description for entity 69."
+      },
+      "thesaurus": [
+        {
+          "wid": 3542,
+          "cod_thes": "CT49"
+        },
+        {
+          "wid": 3828,
+          "cod_thes": "CT78"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 691,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 69",
+          "subtype": "name"
+        },
+        {
+          "text_id": 692,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 69",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 6901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 70,
+      "origin_id": "E-70",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1142
+        }
+      ],
+      "details": {
+        "title": "Title 70",
+        "description": "Description for entity 70."
+      },
+      "thesaurus": [
+        {
+          "wid": 3718,
+          "cod_thes": "CT82"
+        },
+        {
+          "wid": 3549,
+          "cod_thes": "CT86"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 701,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 70",
+          "subtype": "name"
+        },
+        {
+          "text_id": 702,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 70",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 71,
+      "origin_id": "E-71",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1820
+        }
+      ],
+      "details": {
+        "title": "Title 71",
+        "description": "Description for entity 71."
+      },
+      "thesaurus": [
+        {
+          "wid": 3877,
+          "cod_thes": "CT6"
+        },
+        {
+          "wid": 3422,
+          "cod_thes": "CT67"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 711,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 71",
+          "subtype": "name"
+        },
+        {
+          "text_id": 712,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 71",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 72,
+      "origin_id": "E-72",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1166
+        }
+      ],
+      "details": {
+        "title": "Title 72",
+        "description": "Description for entity 72."
+      },
+      "thesaurus": [
+        {
+          "wid": 3966,
+          "cod_thes": "CT84"
+        },
+        {
+          "wid": 3652,
+          "cod_thes": "CT44"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 721,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 72",
+          "subtype": "name"
+        },
+        {
+          "text_id": 722,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 72",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 73,
+      "origin_id": "E-73",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1685
+        }
+      ],
+      "details": {
+        "title": "Title 73",
+        "description": "Description for entity 73."
+      },
+      "thesaurus": [
+        {
+          "wid": 3566,
+          "cod_thes": "CT11"
+        },
+        {
+          "wid": 3111,
+          "cod_thes": "CT48"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 731,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 73",
+          "subtype": "name"
+        },
+        {
+          "text_id": 732,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 73",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 74,
+      "origin_id": "E-74",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1484
+        }
+      ],
+      "details": {
+        "title": "Title 74",
+        "description": "Description for entity 74."
+      },
+      "thesaurus": [
+        {
+          "wid": 3582,
+          "cod_thes": "CT43"
+        },
+        {
+          "wid": 3942,
+          "cod_thes": "CT100"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 741,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 74",
+          "subtype": "name"
+        },
+        {
+          "text_id": 742,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 74",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 75,
+      "origin_id": "E-75",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1762
+        }
+      ],
+      "details": {
+        "title": "Title 75",
+        "description": "Description for entity 75."
+      },
+      "thesaurus": [
+        {
+          "wid": 3033,
+          "cod_thes": "CT31"
+        },
+        {
+          "wid": 3081,
+          "cod_thes": "CT29"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 751,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 75",
+          "subtype": "name"
+        },
+        {
+          "text_id": 752,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 75",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 76,
+      "origin_id": "E-76",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1734
+        }
+      ],
+      "details": {
+        "title": "Title 76",
+        "description": "Description for entity 76."
+      },
+      "thesaurus": [
+        {
+          "wid": 3370,
+          "cod_thes": "CT77"
+        },
+        {
+          "wid": 3019,
+          "cod_thes": "CT30"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 761,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 76",
+          "subtype": "name"
+        },
+        {
+          "text_id": 762,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 76",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 77,
+      "origin_id": "E-77",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1545
+        }
+      ],
+      "details": {
+        "title": "Title 77",
+        "description": "Description for entity 77."
+      },
+      "thesaurus": [
+        {
+          "wid": 3156,
+          "cod_thes": "CT34"
+        },
+        {
+          "wid": 3653,
+          "cod_thes": "CT12"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 771,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 77",
+          "subtype": "name"
+        },
+        {
+          "text_id": 772,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 77",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 78,
+      "origin_id": "E-78",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1840
+        }
+      ],
+      "details": {
+        "title": "Title 78",
+        "description": "Description for entity 78."
+      },
+      "thesaurus": [
+        {
+          "wid": 3495,
+          "cod_thes": "CT99"
+        },
+        {
+          "wid": 3820,
+          "cod_thes": "CT10"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 781,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 78",
+          "subtype": "name"
+        },
+        {
+          "text_id": 782,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 78",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 79,
+      "origin_id": "E-79",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1403
+        }
+      ],
+      "details": {
+        "title": "Title 79",
+        "description": "Description for entity 79."
+      },
+      "thesaurus": [
+        {
+          "wid": 3867,
+          "cod_thes": "CT73"
+        },
+        {
+          "wid": 3024,
+          "cod_thes": "CT19"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 791,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 79",
+          "subtype": "name"
+        },
+        {
+          "text_id": 792,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 79",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 7901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 80,
+      "origin_id": "E-80",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1161
+        }
+      ],
+      "details": {
+        "title": "Title 80",
+        "description": "Description for entity 80."
+      },
+      "thesaurus": [
+        {
+          "wid": 3957,
+          "cod_thes": "CT13"
+        },
+        {
+          "wid": 3681,
+          "cod_thes": "CT7"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 801,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 80",
+          "subtype": "name"
+        },
+        {
+          "text_id": 802,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 80",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 81,
+      "origin_id": "E-81",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1897
+        }
+      ],
+      "details": {
+        "title": "Title 81",
+        "description": "Description for entity 81."
+      },
+      "thesaurus": [
+        {
+          "wid": 3457,
+          "cod_thes": "CT31"
+        },
+        {
+          "wid": 3687,
+          "cod_thes": "CT74"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 811,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 81",
+          "subtype": "name"
+        },
+        {
+          "text_id": 812,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 81",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 82,
+      "origin_id": "E-82",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1898
+        }
+      ],
+      "details": {
+        "title": "Title 82",
+        "description": "Description for entity 82."
+      },
+      "thesaurus": [
+        {
+          "wid": 3000,
+          "cod_thes": "CT92"
+        },
+        {
+          "wid": 3633,
+          "cod_thes": "CT100"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 821,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 82",
+          "subtype": "name"
+        },
+        {
+          "text_id": 822,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 82",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 83,
+      "origin_id": "E-83",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1071
+        }
+      ],
+      "details": {
+        "title": "Title 83",
+        "description": "Description for entity 83."
+      },
+      "thesaurus": [
+        {
+          "wid": 3999,
+          "cod_thes": "CT41"
+        },
+        {
+          "wid": 3464,
+          "cod_thes": "CT42"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 831,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 83",
+          "subtype": "name"
+        },
+        {
+          "text_id": 832,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 83",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 84,
+      "origin_id": "E-84",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1159
+        }
+      ],
+      "details": {
+        "title": "Title 84",
+        "description": "Description for entity 84."
+      },
+      "thesaurus": [
+        {
+          "wid": 3221,
+          "cod_thes": "CT1"
+        },
+        {
+          "wid": 3101,
+          "cod_thes": "CT14"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 841,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 84",
+          "subtype": "name"
+        },
+        {
+          "text_id": 842,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 84",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 85,
+      "origin_id": "E-85",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1531
+        }
+      ],
+      "details": {
+        "title": "Title 85",
+        "description": "Description for entity 85."
+      },
+      "thesaurus": [
+        {
+          "wid": 3415,
+          "cod_thes": "CT92"
+        },
+        {
+          "wid": 3492,
+          "cod_thes": "CT46"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 851,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 85",
+          "subtype": "name"
+        },
+        {
+          "text_id": 852,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 85",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 86,
+      "origin_id": "E-86",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1625
+        }
+      ],
+      "details": {
+        "title": "Title 86",
+        "description": "Description for entity 86."
+      },
+      "thesaurus": [
+        {
+          "wid": 3273,
+          "cod_thes": "CT36"
+        },
+        {
+          "wid": 3942,
+          "cod_thes": "CT76"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 861,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 86",
+          "subtype": "name"
+        },
+        {
+          "text_id": 862,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 86",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 87,
+      "origin_id": "E-87",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1478
+        }
+      ],
+      "details": {
+        "title": "Title 87",
+        "description": "Description for entity 87."
+      },
+      "thesaurus": [
+        {
+          "wid": 3193,
+          "cod_thes": "CT91"
+        },
+        {
+          "wid": 3259,
+          "cod_thes": "CT64"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 871,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 87",
+          "subtype": "name"
+        },
+        {
+          "text_id": 872,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 87",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 88,
+      "origin_id": "E-88",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1220
+        }
+      ],
+      "details": {
+        "title": "Title 88",
+        "description": "Description for entity 88."
+      },
+      "thesaurus": [
+        {
+          "wid": 3476,
+          "cod_thes": "CT21"
+        },
+        {
+          "wid": 3771,
+          "cod_thes": "CT77"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 881,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 88",
+          "subtype": "name"
+        },
+        {
+          "text_id": 882,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 88",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 89,
+      "origin_id": "E-89",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1078
+        }
+      ],
+      "details": {
+        "title": "Title 89",
+        "description": "Description for entity 89."
+      },
+      "thesaurus": [
+        {
+          "wid": 3347,
+          "cod_thes": "CT62"
+        },
+        {
+          "wid": 3068,
+          "cod_thes": "CT10"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 891,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 89",
+          "subtype": "name"
+        },
+        {
+          "text_id": 892,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 89",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 8901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 90,
+      "origin_id": "E-90",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1535
+        }
+      ],
+      "details": {
+        "title": "Title 90",
+        "description": "Description for entity 90."
+      },
+      "thesaurus": [
+        {
+          "wid": 3753,
+          "cod_thes": "CT36"
+        },
+        {
+          "wid": 3095,
+          "cod_thes": "CT29"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 901,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 90",
+          "subtype": "name"
+        },
+        {
+          "text_id": 902,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 90",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 91,
+      "origin_id": "E-91",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1006
+        }
+      ],
+      "details": {
+        "title": "Title 91",
+        "description": "Description for entity 91."
+      },
+      "thesaurus": [
+        {
+          "wid": 3608,
+          "cod_thes": "CT86"
+        },
+        {
+          "wid": 3634,
+          "cod_thes": "CT7"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 911,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 91",
+          "subtype": "name"
+        },
+        {
+          "text_id": 912,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 91",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9101,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 92,
+      "origin_id": "E-92",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1057
+        }
+      ],
+      "details": {
+        "title": "Title 92",
+        "description": "Description for entity 92."
+      },
+      "thesaurus": [
+        {
+          "wid": 3778,
+          "cod_thes": "CT93"
+        },
+        {
+          "wid": 3190,
+          "cod_thes": "CT39"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 921,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 92",
+          "subtype": "name"
+        },
+        {
+          "text_id": 922,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 92",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9201,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 93,
+      "origin_id": "E-93",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1408
+        }
+      ],
+      "details": {
+        "title": "Title 93",
+        "description": "Description for entity 93."
+      },
+      "thesaurus": [
+        {
+          "wid": 3848,
+          "cod_thes": "CT35"
+        },
+        {
+          "wid": 3480,
+          "cod_thes": "CT49"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 931,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 93",
+          "subtype": "name"
+        },
+        {
+          "text_id": 932,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 93",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9301,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 94,
+      "origin_id": "E-94",
+      "origin_table": "licenses",
+      "licenses": [
+        {
+          "license_id": 1181
+        }
+      ],
+      "details": {
+        "title": "Title 94",
+        "description": "Description for entity 94."
+      },
+      "thesaurus": [
+        {
+          "wid": 3648,
+          "cod_thes": "CT80"
+        },
+        {
+          "wid": 3867,
+          "cod_thes": "CT51"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 941,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 94",
+          "subtype": "name"
+        },
+        {
+          "text_id": 942,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 94",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9401,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 95,
+      "origin_id": "E-95",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1163
+        }
+      ],
+      "details": {
+        "title": "Title 95",
+        "description": "Description for entity 95."
+      },
+      "thesaurus": [
+        {
+          "wid": 3923,
+          "cod_thes": "CT86"
+        },
+        {
+          "wid": 3973,
+          "cod_thes": "CT38"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 951,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 95",
+          "subtype": "name"
+        },
+        {
+          "text_id": 952,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 95",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9501,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 96,
+      "origin_id": "E-96",
+      "origin_table": "publications",
+      "licenses": [
+        {
+          "license_id": 1103
+        }
+      ],
+      "details": {
+        "title": "Title 96",
+        "description": "Description for entity 96."
+      },
+      "thesaurus": [
+        {
+          "wid": 3922,
+          "cod_thes": "CT50"
+        },
+        {
+          "wid": 3233,
+          "cod_thes": "CT3"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 961,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 96",
+          "subtype": "name"
+        },
+        {
+          "text_id": 962,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 96",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9601,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 97,
+      "origin_id": "E-97",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1477
+        }
+      ],
+      "details": {
+        "title": "Title 97",
+        "description": "Description for entity 97."
+      },
+      "thesaurus": [
+        {
+          "wid": 3633,
+          "cod_thes": "CT64"
+        },
+        {
+          "wid": 3740,
+          "cod_thes": "CT38"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 971,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 97",
+          "subtype": "name"
+        },
+        {
+          "text_id": 972,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 97",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9701,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 98,
+      "origin_id": "E-98",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1710
+        }
+      ],
+      "details": {
+        "title": "Title 98",
+        "description": "Description for entity 98."
+      },
+      "thesaurus": [
+        {
+          "wid": 3517,
+          "cod_thes": "CT16"
+        },
+        {
+          "wid": 3875,
+          "cod_thes": "CT90"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 981,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 98",
+          "subtype": "name"
+        },
+        {
+          "text_id": 982,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 98",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9801,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 99,
+      "origin_id": "E-99",
+      "origin_table": "objects",
+      "licenses": [
+        {
+          "license_id": 1069
+        }
+      ],
+      "details": {
+        "title": "Title 99",
+        "description": "Description for entity 99."
+      },
+      "thesaurus": [
+        {
+          "wid": 3848,
+          "cod_thes": "CT82"
+        },
+        {
+          "wid": 3072,
+          "cod_thes": "CT85"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 991,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 99",
+          "subtype": "name"
+        },
+        {
+          "text_id": 992,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 99",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 9901,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    },
+    {
+      "entity_id": 100,
+      "origin_id": "E-100",
+      "origin_table": "persons",
+      "licenses": [
+        {
+          "license_id": 1042
+        }
+      ],
+      "details": {
+        "title": "Title 100",
+        "description": "Description for entity 100."
+      },
+      "thesaurus": [
+        {
+          "wid": 3826,
+          "cod_thes": "CT85"
+        },
+        {
+          "wid": 3113,
+          "cod_thes": "CT81"
+        }
+      ],
+      "texts": [
+        {
+          "text_id": 1001,
+          "type": "source",
+          "entity_text_string": "Sample text 1 for entity 100",
+          "subtype": "name"
+        },
+        {
+          "text_id": 1002,
+          "type": "source",
+          "entity_text_string": "Sample text 2 for entity 100",
+          "subtype": "name"
+        }
+      ],
+      "shapes": [
+        {
+          "shape_id": 10001,
+          "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+          "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+        }
+      ]
+    }
+  ]

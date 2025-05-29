@@ -1,0 +1,5 @@
+
+ES_HOST     = "http://localhost:9200"
+ES_USER     = "elastic"
+ES_PASSWORD = "******"
+DEFAULT_INDEX = "entities2"

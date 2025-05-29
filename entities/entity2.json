@@ -1,0 +1,45 @@
+{
+    "entity_id": 6,
+    "origin_id": "E-6",
+    "origin_table": "publications",
+    "licenses": [
+      {
+        "license_id": 1504
+      }
+    ],
+    "details": {
+      "title": "Title 6",
+      "description": "Description for entity 6."
+    },
+    "thesaurus": [
+      {
+        "wid": 3614,
+        "cod_thes": "CT9"
+      },
+      {
+        "wid": 3842,
+        "cod_thes": "CT24"
+      }
+    ],
+    "texts": [
+      {
+        "text_id": 61,
+        "type": "source",
+        "entity_text_string": "Sample text 1 for entity 6",
+        "subtype": "name"
+      },
+      {
+        "text_id": 62,
+        "type": "source",
+        "entity_text_string": "Sample text 2 for entity 6",
+        "subtype": "name"
+      }
+    ],
+    "shapes": [
+      {
+        "shape_id": 601,
+        "shape": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))",
+        "shape_wkt": "POLYGON((34.8 31.5,34.8 31.6,34.9 31.6,34.9 31.5,34.8 31.5))"
+      }
+    ]
+  }
